@@ -115,7 +115,7 @@ Fork 本仓库
 打开一个 Pull Request
 
 #### 许可证
-本项目采用 Creative Gears 专属许可证，保留所有权利。
+本项目采用MIT许可证，Creative Gears保留所有权利。
 未经作者书面许可，不得用于商业用途。
 
 © 2014-2026 Creative Gears. All rights reserved.
