@@ -3,7 +3,7 @@
  * @Date: 2026-08-26
  * @Description: SymbolLang (~!@#$%) 语言项目主页
 -->
-
+![Logo](logo.png)
 <p align="center">
   <h1 align="center">~!@#$%</h1>
   <p align="center">
