@@ -4,32 +4,33 @@
  * @Description: SymbolLang (~!@#$%) 语言项目主页
 -->
 ![Logo](logo.png)
-<p align="center">
-  <h1 align="center">~!@#$%</h1>
-  <p align="center">
+<div align="center">
+  <img src="logo.png" alt="SymbolLang Logo" width="180" />
+  
+  <h3 style="margin-top: 10px; margin-bottom: 5px;">~!@#$%</h3>
+  
+  <p style="margin-top: 0; margin-bottom: 5px;">
     <strong>始于 Word，不止于 Word</strong>
-    <br>
+  </p>
+  <p style="margin-top: 0; margin-bottom: 15px;">
     一门基于栈的符号驱动型编程语言
-    <br>
-    <a href="https://github.com/Trollface1145/SymbolLang"><strong>探索仓库 »</strong></a>
-    <br>
-    <br>
-    <a href="#-快速开始">快速开始</a>
-    ·
-    <a href="#-语法概览">语法概览</a>
-    ·
-    <a href="#-示例程序">示例</a>
-    ·
+  </p>
+  
+  <p style="margin-top: 0; margin-bottom: 15px;">
+    <a href="https://github.com/Trollface1145/symbollang"><strong>探索仓库 »</strong></a> &nbsp;|&nbsp;
+    <a href="#-快速开始">快速开始</a> &nbsp;|&nbsp;
+    <a href="#-语法概览">语法概览</a> &nbsp;|&nbsp;
+    <a href="#-示例程序">示例</a> &nbsp;|&nbsp;
     <a href="#-贡献">贡献</a>
   </p>
-</p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/C%2B%2B-17-blue?style=flat-square&logo=c%2B%2B" alt="C++17">
-  <img src="https://img.shields.io/badge/license-Creative%20Gears-red?style=flat-square" alt="License">
-  <img src="https://img.shields.io/badge/version-0.4.3-brightgreen?style=flat-square" alt="Version">
-  <img src="https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square" alt="PRs Welcome">
-</p>
+  <p style="margin-top: 0; margin-bottom: 20px;">
+    <img src="https://img.shields.io/badge/C%2B%2B-17-blue?style=flat-square&logo=c%2B%2B" alt="C++17" />
+    <img src="https://img.shields.io/badge/license-Creative%20Gears-red?style=flat-square" alt="License" />
+    <img src="https://img.shields.io/badge/version-0.4.3-brightgreen?style=flat-square" alt="Version" />
+    <img src="https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square" alt="PRs Welcome" />
+  </p>
+</div>
 
 ---
 
